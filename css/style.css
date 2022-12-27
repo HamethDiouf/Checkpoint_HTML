@@ -1,0 +1,65 @@
+
+
+
+ h1{
+  color:blue;
+font-size: 32px;
+ font-weight:100px;
+ }
+
+p{
+color: rgb(73, 73, 117)
+ letter: spacing 1px;
+ colum: count 2px;
+}
+
+a{
+text-decoration:none;
+background-color:blanchedalmond;
+border:solid 0px; 
+font-style:italic;
+font-size: 25px;
+}
+img{
+font-size:500px; 
+width: 300px;
+height:px
+}
+video{
+    width: 300px;
+    height: 200px;
+}
+i{
+font-size: 25px;
+}
+
+b{
+    font-size: 25px;
+}
+
+h2{
+    color:black;
+    font-size: 30px;
+}
+
+
+h3{
+font-size: 30px;
+ color:red;
+font-weight:;
+}
+table{
+    color:rgb(33, 33, 119);
+}
+h4{
+font-size: 25px;
+}
+h5{
+
+}
+h6{
+font-size: 15px;
+}
+li{
+    color: green;
+}
